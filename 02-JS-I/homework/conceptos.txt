@@ -1,0 +1,16 @@
+
+
+Que son variables ?
+- Nos sirven para guardar datos en un espacio de la memoria ram de la computadora
+
+Que son los String?
+- Son cadena de texto , es decir, asi se representa el texto en programacion.
+
+Que son las Funciones?
+-Una funcion es un conjunto de instrucciones que toman argumentos ,parametros y deben retornar algo 
+
+Que son las Declaraciones (if, else)?
+-Son igualmente instrucciones donde si se cumplen las condiciones nos retornara true o false dependiendo el codigo
+
+Que son los Booleans?
+-Sirven para decir si algo es verdadero o falso en JS (true or false)
