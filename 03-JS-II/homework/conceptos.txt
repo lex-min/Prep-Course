@@ -1,0 +1,12 @@
+Que es For?
+
+-ciclo for o bucle for nos ayuda a repetir una misma linea de codigo las veces que necesitemos 
+
+
+Que son signos logicos (&&, !, ||)
+
+&& = AND (Y) sirve para agregar mas de una condicion al codigo donde ambas se tienen que cumplir para que se pueda ejecutar
+
+|| = OR (o) sirve para agregar mas de una condicion al codigo y donde solo una de ellas se tiene que cumplir para que se ejecute el codigo
+
+! = not (no) sirve para negar ps solo eso 
