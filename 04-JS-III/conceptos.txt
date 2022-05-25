@@ -1,0 +1,2 @@
+Que son los arrays?
+son variables tipo lista , donde se pueden guardar cualquier tipo de datos.
