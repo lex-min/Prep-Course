@@ -1,0 +1,25 @@
+
+
+Que son los Objetos?
+
+Son como una coleccion de datos , donde se guardan diferentes propiedades y valores.
+
+
+Que son propiedades?
+
+KEY|VALUE
+
+
+Que son Metodos?
+
+Son funciones de objetos, sirven para hacer tareas
+
+
+Bucle For In?
+
+Sirve para recorrer las propiedades de un objeto
+
+Notación de puntos vs notación de corchetes?
+
+
+Sirven para Acceder a las propiedades de un objeto.
